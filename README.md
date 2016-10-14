@@ -1,4 +1,4 @@
-# javascript_basics
+# Javascript Basics
 Treehouse Course Notes and Excercises on Javascript Basics
 
 About this Course
